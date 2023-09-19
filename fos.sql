@@ -81,9 +81,9 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`cust_id`, `cust_fname`, `cust_lname`, `cust_password`, `email`, `phone`, `address`) VALUES
-(1, 'Madhurya', 'Dutta', 'alphabeta', '', 2147483647, 'Lakhimpur, Assam'),
-(2, 'Madhurya', 'Dutta', 'a', 'a@a.com', 2147483647, 'aaaa'),
-(3, 'Madhurya', 'Dutta', 'qwert', 'Iam@dutta.com', 2147483647, 'aaaaaaaaaa');
+(1, 'Minmoy', 'Dutta', 'alphabeta', '', 2147483647, 'Lakhimpur, Assam'),
+(2, 'Minmoy', 'Dutta', 'a', 'a@a.com', 2147483647, 'aaaa'),
+(3, 'Minmoy', 'Dutta', 'qwert', 'Iam@dutta.com', 2147483647, 'aaaaaaaaaa');
 
 -- --------------------------------------------------------
 
